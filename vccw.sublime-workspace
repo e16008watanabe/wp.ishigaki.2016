@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"name"
+			],
+			[
+				"p",
+				"parseInt"
+			],
+			[
+				"title",
+				"title	<title>"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"html",
+				"html"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Snippet: aoj",
+				"Snippet: Object Value JS"
+			],
+			[
+				"Snippet: hello",
+				"Snippet: hello"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Gist: Insert Gist"
+			],
+			[
+				"Add Repository",
+				"Package Control: Add Repository"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 491.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/e16008/vccw/site.yml",
+		"/home/e16008/Desktop/test/index.html",
+		"/home/e16008/vm/html/www/.git/COMMIT_EDITMSG",
+		"/home/e16008/Desktop/javascript/practice/_template/index.html",
+		"/home/e16008/Desktop/javascript/practice/_template/.git/COMMIT_EDITMSG",
+		"/home/e16008/Desktop/javascript/practice/_template/data.json",
+		"/home/e16008/Desktop/javascript/6-03_ajax/step1/index.html",
+		"/home/e16008/Desktop/javascript/6-03_ajax/step1/data.json",
+		"/home/e16008/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/e16008/Desktop/test.javaScript/<js>復習",
+		"/home/e16008/vm/html/www/portfolio/01.html",
+		"/home/e16008/vm/html/www/common/css/style.css",
+		"/home/e16008/Desktop/AOJ/test.js",
+		"/home/e16008/vm/html/www/index.html",
+		"/home/e16008/Desktop/test/js/jquery.bxslider.js",
+		"/home/e16008/Desktop/test/lib/jquery.bxslider.css",
+		"/home/e16008/Desktop/www/download/08/8-1-2/www/index.html",
+		"/home/e16008/Desktop/AOJ/data",
+		"/home/e16008/Desktop/javascript/4-01_input/step1/index.html",
+		"/home/e16008/Desktop/test.js",
+		"/home/e16008/Desktop/data",
+		"/home/e16008/vm/html/www/portfolio/03.html",
+		"/home/e16008/vm/html/www/portfolio/02.html",
+		"/home/e16008/vm/html/www/portfolio/index.html",
+		"/home/e16008/vm/html/www/about/index.html",
+		"/home/e16008/vm/html/www/contact/index.html",
+		"/home/e16008/Desktop/www/download/07/7-4-3/www/common/css/style.css",
+		"/home/e16008/Desktop/www/download/07/7-4-2/www/index.html",
+		"/home/e16008/Desktop/www/download/07/7-4-1/www/common/css/style.css",
+		"/home/e16008/Desktop/www/download/07/7-3-1/text/contact.txt",
+		"/home/e16008/Desktop/www/download/07/7-4-1/www/index.html",
+		"/home/e16008/Desktop/www/download/07/7-3-2/www/common/css/style.css",
+		"/home/e16008/Desktop/www/download/07/7-3-1/text/about.txt",
+		"/home/e16008/Desktop/www/download/07/7-2-1/text/index.txt",
+		"/home/e16008/Desktop/www/download/07/7-1-1/text/03.txt",
+		"/home/e16008/Desktop/www/download/07/7-1-1/text/02.txt",
+		"/home/e16008/.config/sublime-text-3/Packages/User/SublimeLinter/aoj.sublime-snippet",
+		"/home/e16008/.config/sublime-text-3/Packages/0_package_control_loader.sublime-package",
+		"/home/e16008/.config/sublime-text-3/untitled.sublime-snippet",
+		"/home/e16008/Desktop/AOJ/untitled.sublime-snippet",
+		"/home/e16008/Desktop/javascript/3-10_array/step4/index.html",
+		"/home/e16008/Desktop/無題のフォルダー/test3.js",
+		"/home/e16008/Desktop/0607.html",
+		"/home/e16008/Desktop/p125.html",
+		"/home/e16008/Desktop/javascript/practice/_template/sci",
+		"/home/e16008/Desktop/javascript/practice/_template/script.js",
+		"/home/e16008/Desktop/javascript/3-09_fizzbuzz/step2/index.html",
+		"/home/e16008/Desktop/www/index.html",
+		"/home/e16008/Desktop/www/about/index.html",
+		"/home/e16008/Desktop/www/download/06/6-2-2/www/common/css/style.css",
+		"/home/e16008/Desktop/www/download/06/6-2-1/www/portfolio/01.html",
+		"/home/e16008/Desktop/javascript/3-08_function/step2/index.html",
+		"/home/e16008/Desktop/javascript/3-06_for/step2/index.html",
+		"/home/e16008/Desktop/javascript/3-07_while/step1/index.html",
+		"/home/e16008/Desktop/javascript/3-07_while/step2/index.html",
+		"/home/e16008/Desktop/02Jupiter/index.html",
+		"/home/e16008/vm/html/www/contact/indexhtml",
+		"/home/e16008/Desktop/gittest/.git/COMMIT_EDITMSG",
+		"/home/e16008/Desktop/javascript/3-08_function/extra/index.html",
+		"/home/e16008/Desktop/www/download/05/5-2-3/www/portfolio/01.html",
+		"/home/e16008/vm/html/www/portfolio/style.css",
+		"/home/e16008/Desktop/www/download/05/5-2-1/www/portfolio/01.html",
+		"/home/e16008/Desktop/www/download/05/5-2-2/www/portfolio/01.html",
+		"/home/e16008/Desktop/www/download/05/5-1-4/www/common/css/style.css",
+		"/home/e16008/Desktop/www/download/05/5-1-4/www/portfolio/01.html",
+		"/home/e16008/Desktop/www/common/css/style.css",
+		"/home/e16008/Desktop/javascript/practice/_template/untitled.js",
+		"/home/e16008/.eslintrc.js",
+		"/home/e16008/Desktop/javascript/3-04_comparison/step1/index.html",
+		"/home/e16008/Desktop/javascript/3-02_var/step2/index.html",
+		"/home/e16008/Desktop/javascript/2-01_console/step1/index.html",
+		"/home/e16008/Desktop/javascript/3-01_if/step1/index.html",
+		"/home/e16008/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/e16008/vm/html/www/download/04/4-2-3/www/portfolio/01.html",
+		"/home/e16008/vm/html/www/common/css/normalize.css",
+		"/home/e16008/vm/html/www/download/03/3-5-4/www/common/css/style.css",
+		"/home/e16008/vm/html/www/download/03/3-5-4/www/portfolio/01.html",
+		"/home/e16008/vm/html/www/download/03/3-5-4/www/common/css/normalize.css",
+		"/home/e16008/vm/html/www/download/03/3-5-3/www/portfolio/01.html",
+		"/home/e16008/vm/html/www/download/03/3-5-3/www/common/css/style.css",
+		"/home/e16008/Desktop/www/download/03/3-1-1/www/common/css/style.css",
+		"/home/e16008/Desktop/www/download/02/2-3-1/www/portfolio/01.html",
+		"/home/e16008/Desktop/www/download/02/2-2-2/www/portfolio/01.html",
+		"/home/e16008/Desktop/www/download/02/2-2-3/www/portfolio/01.html",
+		"/home/e16008/Desktop/www/download/03/3-3-3/www/portfolio/01.html",
+		"/home/e16008/Desktop/www/download/03/3-1-3/www/portfolio/01.html",
+		"/home/e16008/vm/html/www/ls",
+		"/home/e16008/vm/html/www/portfolio/01",
+		"/home/e16008/vm/html/www/portfolio/base.html",
+		"/home/e16008/vm/html/www/base.html",
+		"/home/e16008/vm/html/Vagrantfile",
+		"/home/e16008/Desktop/02Jupiter/.gitignore",
+		"/home/e16008/Desktop/02Jupiter/.git/COMMIT_EDITMSG",
+		"/home/e16008/Desktop/0706.html/0706jupiter/.gitignore",
+		"/home/e16008/Desktop/0706.html/0706jupiter/.git/COMMIT_EDITMSG",
+		"/home/e16008/.gitconfig",
+		"/home/e16008/gitconfig",
+		"/home/e16008/Desktop/0706.html/0706jupiter/gitignore",
+		"/home/e16008/Desktop/hoge",
+		"/home/e16008/index.html",
+		"/home/e16008/Desktop/untitled",
+		"/home/e16008/0608.js",
+		"/home/e16008/Desktop/p113.js",
+		"/home/e16008/Desktop/p111.js",
+		"/home/e16008/Desktop/p110.js",
+		"/home/e16008/Desktop/p109.js",
+		"/home/e16008/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/e16008/Desktop/忘年会のお誘い.html",
+		"/home/e16008/Desktop/b.html",
+		"/home/e16008/.config/sublime-text-3/Packages/User/hello.sublime-snippet",
+		"/home/e16008/Desktop/test.html",
+		"/tmp/test",
+		"//test",
+		"/home/e16008/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/e16008/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/e16008/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/e16008/settings/docs/sublime.md",
+		"/home/e16008/Desktop/first.md",
+		"/home/e16008/Desktop/frst.md",
+		"/home/e16008/Desktop/first",
+		"/home/e16008/Desktop/index.thml",
+		"/home/e16008/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"a.ho",
+			"image",
+			"images",
+			"1人",
+			"一人じゃできない",
+			"impo",
+			"お知らせ",
+			"');",
+			"リストを表示する",
+			"関連リンク",
+			";",
+			"help",
+			"Cafe Debut",
+			"ケガ、病気、対象によって",
+			"ケガ、病気、対象によってケガ、病気、対象によって",
+			"ケガ、病気、対象によって",
+			"');",
+			"円でお求めいただけま！",
+			"リスト",
+			"=\"\n",
+			"list",
+			"li",
+			"list",
+			",",
+			"), ",
+			",",
+			"-",
+			")\n-9",
+			"\n-",
+			" ",
+			",",
+			"ゲームグラフィック体験"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 148.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
