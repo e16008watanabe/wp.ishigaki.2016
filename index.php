@@ -33,10 +33,10 @@
                         <p>[<a href="<?php the_permalink(); ?>">続きを読む</a>]</p>
                     </div>
                     <figure>
-                    <?php if (has_post_thumbnail()): ?>
+                    <?php if ( has_post_thumbnail() ): ?>
                       <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('thumbnail'); ?></a>
-                    <?php else: ?>
-                      <a href="<?php the_permalink(); ?>"><img src="<?php echo get_template_derectory_uri(); ?>/images/common/noimage_180x180.png" height="180" width="180"
+                      <?php else: ?>
+                      <a href="<?php the_permalink(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/common/noimage_180x180.png" height="180" width="180"
                       alt""></a>
                     <?php endif; ?>
                     </figure>
