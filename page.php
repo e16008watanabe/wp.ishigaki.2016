@@ -2,7 +2,7 @@
 
     <div class="contentsWrap">
         <div class="mainContents">
-        <?php
+        <?php 
         if ( have_posts() ) :
             while ( have_posts() ) : the_post();
         ?>
@@ -12,14 +12,14 @@
                     <?php the_content(); ?>
                 </section>
             </article><!-- /.page -->
-        <?php
+        <?php 
             endwhile;
         endif;
         ?>
         </div><!-- /.mainContents -->
 
         <aside class="subContents">
-            <?php get_sidebar(); ?>
+            <?php get_sidebar(); ?>  
         </aside><!-- /.subContents -->
     </div><!-- /.contentsWrap -->
 

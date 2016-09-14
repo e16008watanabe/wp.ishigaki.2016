@@ -1,7 +1,7 @@
-<footer class="globalFooter">
+    <footer class="globalFooter">
         <div class="pageTop">
             <p><a href="javascript:void(0);" id="js-pagetop"><img src="<?php echo get_template_directory_uri(); ?>/images/common/pagetop01.png" height="41" width="41" alt=""></a></p>
-        </div>
+        </div>  
         <div class="inner">
             <dl class="address">
                 <dt>ホテル・技評リゾート石垣島</dt>
@@ -11,6 +11,6 @@
             <small>&copy; HOTEL GIHYO RESORT ISHIGAKI All Rights Reserved.</small>
         </div>
     </footer><!-- /.globalFooter -->
-    <?php wp_footer(); ?>
+<?php wp_footer(); ?>
 </body>
 </html>
