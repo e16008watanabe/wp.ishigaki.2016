@@ -59,3 +59,16 @@ add_filter( 'the_content_feed', 'rss_post_thumbnail');
 
 //RSS 2.0を停止
 remove_action('do_feed_rss2','do_feed_rss2', 10, 1);
+
+add_action('pre_get_posts', 'my_pre_get_posts');
+function my_pre_get_posts($query) {
+  //管理画面、メインクエリ以外には設定しない
+  if ( is_admin() || ! $query->is_main_query() ){
+    return;
+  }
+  //トップページの場合
+  if ($query->is_home()){
+    $query->set( 'posts_per_page', 3);
+    return;
+  }
+}
